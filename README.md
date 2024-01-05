@@ -1,5 +1,5 @@
 # sales_analyst
-The sales_insights dashboard in POwer BI provides real time visibility into key sales metric, utilizing dynamic charts and graphs to analyze revenue, customer acquisition, and product performance.
+The sales_insights dashboard in Power BI provides real time visibility into key sales metric, utilizing dynamic charts and graphs to analyze revenue, customer acquisition, and product performance.
 
 # Data Analysis Using SQL
 1. Show all customer records:<br>
